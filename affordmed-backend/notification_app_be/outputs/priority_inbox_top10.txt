@@ -1,0 +1,44 @@
+TOP 10 PRIORITY NOTIFICATIONS
+GeneratedAt: 2026-05-06T10:26:45.069Z
+PriorityOrder: Placement > Result > Event (newer first within same type)
+
+1. [Placement] Amgen Inc. hiring
+   id: b5eb3fb1-f8a8-4957-a8ad-f62f5f1f4de8
+   time: 2026-05-06 01:26:33
+
+2. [Placement] Amgen Inc. hiring
+   id: bd730cb9-1725-4238-9c31-25c10b105911
+   time: 2026-05-05 23:26:13
+
+3. [Placement] Advanced Micro Devices Inc. hiring
+   id: 28f99a1f-789c-4c9c-9304-d989551883ec
+   time: 2026-05-05 21:25:49
+
+4. [Placement] Microsoft Corporation hiring
+   id: 6676a7fc-e419-4e5f-bd3a-64c054f82092
+   time: 2026-05-05 18:26:25
+
+5. [Placement] Amgen Inc. hiring
+   id: a83b5418-114f-45be-9dfe-986df900e504
+   time: 2026-05-05 17:25:25
+
+6. [Result] internal
+   id: d65ba832-40ec-47b0-ada2-01373fbb09d4
+   time: 2026-05-06 09:25:41
+
+7. [Result] end-sem
+   id: 7bea581a-b7b3-4051-8c53-5566a55d1cd1
+   time: 2026-05-06 08:26:21
+
+8. [Result] external
+   id: 97f48350-bc58-47ff-a018-2720e39c0978
+   time: 2026-05-06 04:56:01
+
+9. [Result] external
+   id: af41956e-a078-497b-98a5-a51c94951fc5
+   time: 2026-05-06 03:26:17
+
+10. [Result] external
+   id: bed7da1b-fd6b-4440-9293-579b544f8471
+   time: 2026-05-06 01:26:05
+

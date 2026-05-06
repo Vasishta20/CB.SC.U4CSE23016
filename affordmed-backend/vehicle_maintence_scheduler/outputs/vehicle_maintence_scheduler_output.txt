@@ -1,0 +1,108 @@
+VEHICLE MAINTENANCE SCHEDULER
+GeneratedAt: 2026-05-06T10:26:44.133Z
+
+========================================================================
+Depot 2 | Budget: 135h | Used: 134h | TotalImpact: 204
+========================================================================
+1. e949a658-0264-43e0-a3be-965f9801f855 | Duration: 4h | Impact: 2
+2. 38ea6e46-c413-494b-9e3b-3c6713dc5674 | Duration: 2h | Impact: 2
+3. bd106fae-892e-405e-8012-138338e175a0 | Duration: 6h | Impact: 3
+4. 7bb8c40b-bcc0-456e-8ee0-a6905bdf780c | Duration: 2h | Impact: 9
+5. f254905a-b84d-490c-9b0b-ede122b995fc | Duration: 3h | Impact: 4
+6. ba3d4b36-5c73-4c1a-8ddf-9e8d28c2a6f3 | Duration: 6h | Impact: 6
+7. 5a151128-2291-4641-9584-633c2ad186e2 | Duration: 4h | Impact: 4
+8. c6808bf9-0dde-43c4-b001-f5d90e80b8f8 | Duration: 3h | Impact: 6
+9. 7e05510a-2edb-4624-9e5b-ae89d3b20f2f | Duration: 8h | Impact: 7
+10. 083edf07-97a0-4ea3-9554-a81bf191b12b | Duration: 3h | Impact: 10
+11. 858f57c2-973d-451d-b02c-074d22517ec2 | Duration: 8h | Impact: 7
+12. f6274d9c-99ce-4cb6-9820-5e6de882a0a2 | Duration: 3h | Impact: 1
+13. f1e6c95e-ab2e-4ae8-a111-f2d997e61f59 | Duration: 4h | Impact: 6
+14. 0d875eeb-485d-44be-abc2-32dc36d447a3 | Duration: 2h | Impact: 7
+15. 8a6a3bd1-ee14-43bc-9432-fbfb845e7d5b | Duration: 7h | Impact: 10
+16. e40a8567-9e89-4c2d-9059-c5bdc52c3604 | Duration: 4h | Impact: 5
+17. 46cf293b-b07e-4783-8fa3-e7396014e0c9 | Duration: 3h | Impact: 7
+18. 329e7f15-e7b8-4379-8cee-3d3216885253 | Duration: 3h | Impact: 9
+19. a271dc90-b1da-4b8f-8c5c-a99483ef8eab | Duration: 3h | Impact: 5
+20. 1e5811ee-b737-4173-b50a-3cad34d6d117 | Duration: 5h | Impact: 9
+21. 212137c1-a264-447d-a964-a50dc3181b08 | Duration: 7h | Impact: 8
+22. 58bd55b3-49c2-41d9-b31b-93fc6288d2d3 | Duration: 7h | Impact: 8
+23. 8d01eba2-c08b-49b9-a288-19ff5fe75913 | Duration: 3h | Impact: 8
+24. a08042c5-4f2f-4e0b-8701-2159a5d7e2cf | Duration: 5h | Impact: 10
+25. 657f4d3b-56c2-47b1-acd9-b060fdbbddeb | Duration: 1h | Impact: 3
+26. 443afd18-7c43-481e-9015-e8150c2f25bf | Duration: 3h | Impact: 7
+27. 1671742d-ce40-48ce-b5a9-409827b0c82a | Duration: 2h | Impact: 8
+28. e607e285-1058-4d0e-957f-a17913c67bc1 | Duration: 4h | Impact: 2
+29. 2688b7d5-f4db-4252-98fc-fb4bdda3534f | Duration: 5h | Impact: 10
+30. fdd83951-d120-4a86-9501-802bdb73feac | Duration: 2h | Impact: 8
+31. 911b54a6-35ad-4388-8b48-c725b34c4f06 | Duration: 6h | Impact: 3
+32. 6669ec1c-6bc0-410a-8ec3-fb74315b16ca | Duration: 6h | Impact: 10
+
+========================================================================
+Depot 3 | Budget: 188h | Used: 166h | TotalImpact: 212
+========================================================================
+1. 59fe05bb-b5c0-40ff-93f3-a8d3571d6582 | Duration: 7h | Impact: 3
+2. e949a658-0264-43e0-a3be-965f9801f855 | Duration: 4h | Impact: 2
+3. 7aaef03f-9de9-4ef8-814d-8156c50868db | Duration: 3h | Impact: 1
+4. 38ea6e46-c413-494b-9e3b-3c6713dc5674 | Duration: 2h | Impact: 2
+5. 9212a083-778b-44c3-ab6f-07d96d992923 | Duration: 6h | Impact: 2
+6. bd106fae-892e-405e-8012-138338e175a0 | Duration: 6h | Impact: 3
+7. 7bb8c40b-bcc0-456e-8ee0-a6905bdf780c | Duration: 2h | Impact: 9
+8. f254905a-b84d-490c-9b0b-ede122b995fc | Duration: 3h | Impact: 4
+9. ba3d4b36-5c73-4c1a-8ddf-9e8d28c2a6f3 | Duration: 6h | Impact: 6
+10. 5a151128-2291-4641-9584-633c2ad186e2 | Duration: 4h | Impact: 4
+11. c6808bf9-0dde-43c4-b001-f5d90e80b8f8 | Duration: 3h | Impact: 6
+12. 7e05510a-2edb-4624-9e5b-ae89d3b20f2f | Duration: 8h | Impact: 7
+13. 083edf07-97a0-4ea3-9554-a81bf191b12b | Duration: 3h | Impact: 10
+14. 858f57c2-973d-451d-b02c-074d22517ec2 | Duration: 8h | Impact: 7
+15. f6274d9c-99ce-4cb6-9820-5e6de882a0a2 | Duration: 3h | Impact: 1
+16. f1e6c95e-ab2e-4ae8-a111-f2d997e61f59 | Duration: 4h | Impact: 6
+17. 0d875eeb-485d-44be-abc2-32dc36d447a3 | Duration: 2h | Impact: 7
+18. 8a6a3bd1-ee14-43bc-9432-fbfb845e7d5b | Duration: 7h | Impact: 10
+19. e40a8567-9e89-4c2d-9059-c5bdc52c3604 | Duration: 4h | Impact: 5
+20. 46cf293b-b07e-4783-8fa3-e7396014e0c9 | Duration: 3h | Impact: 7
+21. 329e7f15-e7b8-4379-8cee-3d3216885253 | Duration: 3h | Impact: 9
+22. a271dc90-b1da-4b8f-8c5c-a99483ef8eab | Duration: 3h | Impact: 5
+23. 1e5811ee-b737-4173-b50a-3cad34d6d117 | Duration: 5h | Impact: 9
+24. 212137c1-a264-447d-a964-a50dc3181b08 | Duration: 7h | Impact: 8
+25. 58bd55b3-49c2-41d9-b31b-93fc6288d2d3 | Duration: 7h | Impact: 8
+26. 8d01eba2-c08b-49b9-a288-19ff5fe75913 | Duration: 3h | Impact: 8
+27. a08042c5-4f2f-4e0b-8701-2159a5d7e2cf | Duration: 5h | Impact: 10
+28. 657f4d3b-56c2-47b1-acd9-b060fdbbddeb | Duration: 1h | Impact: 3
+29. bca97242-ef71-4686-8713-2dd214e6e31a | Duration: 8h | Impact: 1
+30. 443afd18-7c43-481e-9015-e8150c2f25bf | Duration: 3h | Impact: 7
+31. 1671742d-ce40-48ce-b5a9-409827b0c82a | Duration: 2h | Impact: 8
+32. 7d72d84a-ea3c-407e-b48d-82f6aa3fd5d7 | Duration: 8h | Impact: 1
+33. e607e285-1058-4d0e-957f-a17913c67bc1 | Duration: 4h | Impact: 2
+34. 2688b7d5-f4db-4252-98fc-fb4bdda3534f | Duration: 5h | Impact: 10
+35. fdd83951-d120-4a86-9501-802bdb73feac | Duration: 2h | Impact: 8
+36. 911b54a6-35ad-4388-8b48-c725b34c4f06 | Duration: 6h | Impact: 3
+37. 6669ec1c-6bc0-410a-8ec3-fb74315b16ca | Duration: 6h | Impact: 10
+
+========================================================================
+Depot 4 | Budget: 97h | Used: 97h | TotalImpact: 180
+========================================================================
+1. 7bb8c40b-bcc0-456e-8ee0-a6905bdf780c | Duration: 2h | Impact: 9
+2. f254905a-b84d-490c-9b0b-ede122b995fc | Duration: 3h | Impact: 4
+3. ba3d4b36-5c73-4c1a-8ddf-9e8d28c2a6f3 | Duration: 6h | Impact: 6
+4. c6808bf9-0dde-43c4-b001-f5d90e80b8f8 | Duration: 3h | Impact: 6
+5. 083edf07-97a0-4ea3-9554-a81bf191b12b | Duration: 3h | Impact: 10
+6. 858f57c2-973d-451d-b02c-074d22517ec2 | Duration: 8h | Impact: 7
+7. f1e6c95e-ab2e-4ae8-a111-f2d997e61f59 | Duration: 4h | Impact: 6
+8. 0d875eeb-485d-44be-abc2-32dc36d447a3 | Duration: 2h | Impact: 7
+9. 8a6a3bd1-ee14-43bc-9432-fbfb845e7d5b | Duration: 7h | Impact: 10
+10. e40a8567-9e89-4c2d-9059-c5bdc52c3604 | Duration: 4h | Impact: 5
+11. 46cf293b-b07e-4783-8fa3-e7396014e0c9 | Duration: 3h | Impact: 7
+12. 329e7f15-e7b8-4379-8cee-3d3216885253 | Duration: 3h | Impact: 9
+13. a271dc90-b1da-4b8f-8c5c-a99483ef8eab | Duration: 3h | Impact: 5
+14. 1e5811ee-b737-4173-b50a-3cad34d6d117 | Duration: 5h | Impact: 9
+15. 212137c1-a264-447d-a964-a50dc3181b08 | Duration: 7h | Impact: 8
+16. 58bd55b3-49c2-41d9-b31b-93fc6288d2d3 | Duration: 7h | Impact: 8
+17. 8d01eba2-c08b-49b9-a288-19ff5fe75913 | Duration: 3h | Impact: 8
+18. a08042c5-4f2f-4e0b-8701-2159a5d7e2cf | Duration: 5h | Impact: 10
+19. 657f4d3b-56c2-47b1-acd9-b060fdbbddeb | Duration: 1h | Impact: 3
+20. 443afd18-7c43-481e-9015-e8150c2f25bf | Duration: 3h | Impact: 7
+21. 1671742d-ce40-48ce-b5a9-409827b0c82a | Duration: 2h | Impact: 8
+22. 2688b7d5-f4db-4252-98fc-fb4bdda3534f | Duration: 5h | Impact: 10
+23. fdd83951-d120-4a86-9501-802bdb73feac | Duration: 2h | Impact: 8
+24. 6669ec1c-6bc0-410a-8ec3-fb74315b16ca | Duration: 6h | Impact: 10
+
